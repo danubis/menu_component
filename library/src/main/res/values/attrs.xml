@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MenuComponent">
+        <attr name="showAnimation" format="boolean|reference" />
+        <attr name="menuButtonSrc" format="reference|integer" />
+        <attr name="button1Src" format="reference|integer" />
+        <attr name="button2Src" format="reference|integer" />
+        <attr name="button3Src" format="reference|integer" />
+        <attr name="button4Src" format="reference|integer" />
+        <attr name="button5Src" format="reference|integer" />
+
+    </declare-styleable>
+</resources>
